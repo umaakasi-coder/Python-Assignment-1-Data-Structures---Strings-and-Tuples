@@ -1,0 +1,2 @@
+# Python-Assignment-1-Data-Structures---Strings-and-Tuples
+1.Strings (Concatenation, Slicing and Other methods),2. String Slicing and Indexing,3. String Methods,Tuples (Creation, Modification and Access) .1. String Concatenation: Write a Python program that takes two strings i.e string 1 “Hello ”, string 2 get name as input from the user and concatenates them together. Display the concatenated string 
